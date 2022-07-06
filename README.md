@@ -1,4 +1,11 @@
-### Olá Mundo!!! 👋
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+<div>
+<a href="https://github.com/dedsdead">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedsdead&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **dedsdead/dedsdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
