@@ -9,6 +9,9 @@
 ### 📫 How to reach me:
 <a href="https://facebook.com/dedsdead"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/andre-ricardo-morato-rosa-99b278259"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 
+### ⚡ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedsdead&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <div>
 <a href="https://github.com/dedsdead">
 </div>
