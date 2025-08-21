@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andre-ricardo-morato-rosa-99b278259/)
 
 ### ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedsdead&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=800080&text_color=FFF)
+![dedsdead's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedsdead&theme=dark&hide_border=false)
 
 <div>
 <a href="https://github.com/dedsdead">
