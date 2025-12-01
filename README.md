@@ -13,6 +13,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 📫 How to reach me:
 
