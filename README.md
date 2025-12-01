@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andre-ricardo-morato-rosa-99b278259/)
 
 ### ⚡ GitHub Stats
-![dedsdead's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedsdead&theme=dark&hide_border=false)
+[Stats](https://github-readme-streak-stats.herokuapp.com/?user=dedsdead&theme=dark&hide_border=false)
 
 <div>
 <a href="https://github.com/dedsdead">
